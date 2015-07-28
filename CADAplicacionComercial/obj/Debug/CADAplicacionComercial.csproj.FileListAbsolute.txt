@@ -1,0 +1,11 @@
+c:\users\carlos.alvarezi\documents\visual studio 2012\Projects\AplicacionComercial\CADAplicacionComercial\bin\Debug\CADAplicacionComercial.dll.config
+c:\users\carlos.alvarezi\documents\visual studio 2012\Projects\AplicacionComercial\CADAplicacionComercial\bin\Debug\CADAplicacionComercial.dll
+c:\users\carlos.alvarezi\documents\visual studio 2012\Projects\AplicacionComercial\CADAplicacionComercial\bin\Debug\CADAplicacionComercial.pdb
+c:\users\carlos.alvarezi\documents\visual studio 2012\Projects\AplicacionComercial\CADAplicacionComercial\obj\Debug\CADAplicacionComercial.dll
+c:\users\carlos.alvarezi\documents\visual studio 2012\Projects\AplicacionComercial\CADAplicacionComercial\obj\Debug\CADAplicacionComercial.pdb
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\AplicacionComercial\CADAplicacionComercial\bin\Debug\CADAplicacionComercial.dll.config
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\AplicacionComercial\CADAplicacionComercial\bin\Debug\CADAplicacionComercial.dll
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\AplicacionComercial\CADAplicacionComercial\bin\Debug\CADAplicacionComercial.pdb
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\AplicacionComercial\CADAplicacionComercial\obj\Debug\CADAplicacionComercial.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\AplicacionComercial\CADAplicacionComercial\obj\Debug\CADAplicacionComercial.dll
+C:\Users\Carlos\Documents\Visual Studio 2013\Projects\AplicacionComercial\CADAplicacionComercial\obj\Debug\CADAplicacionComercial.pdb
